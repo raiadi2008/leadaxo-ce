@@ -2,10 +2,6 @@
 node_modules/
 dist/
 
-# TypeScript build output
-*.js
-*.js.map
-
 # Compiled JavaScript and source maps
 *.tsbuildinfo
 
